@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "403140471890",
+    "firebase_url": "https://appiotdoorbell.firebaseio.com",
+    "project_id": "appiotdoorbell",
+    "storage_bucket": "appiotdoorbell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403140471890:android:5ab5d743d974d681f9438b",
+        "android_client_info": {
+          "package_name": "com.example.app_iot_bell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403140471890-liuqco3i29257a0pklpp8r8far5rfklp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_iot_bell",
+            "certificate_hash": "283f81e5fcb35b26ea5884969c22792449feae1e"
+          }
+        },
+        {
+          "client_id": "403140471890-iek80215d5ltdvenhcvvvl3fiafgqdh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcxmqoDwXcc46s1-2_GIfBLJ8u6F-RkqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403140471890-iek80215d5ltdvenhcvvvl3fiafgqdh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
